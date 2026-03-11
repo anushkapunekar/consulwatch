@@ -74,4 +74,4 @@ This prototype was built as part of the **JSO Phase-2: Agentic Career Intelligen
 
 The agent addresses the core Part B task: designing an AI agent that monitors HR consultations and analyzes conversation tone, professionalism, and candidate engagement on the JSO HR Dashboard.
 
-**GitHub:** [github.com/anushkapunekar/consulwatch](https://github.com/anushkapunekar/consulwatch)
+**GitHub:** [github.com/anushkapunekar/consulwatch](https://github.com/anushkapunekar/consultwatch)
